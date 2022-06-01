@@ -1,0 +1,15 @@
+C:\Users\ronan_40g4u6q\OneDrive\Área de Trabalho\trabalhos\cursos\DIO\Dotnet-RPG\bin\Debug\net6.0\Dotnet-RPG.exe
+C:\Users\ronan_40g4u6q\OneDrive\Área de Trabalho\trabalhos\cursos\DIO\Dotnet-RPG\bin\Debug\net6.0\Dotnet-RPG.deps.json
+C:\Users\ronan_40g4u6q\OneDrive\Área de Trabalho\trabalhos\cursos\DIO\Dotnet-RPG\bin\Debug\net6.0\Dotnet-RPG.runtimeconfig.json
+C:\Users\ronan_40g4u6q\OneDrive\Área de Trabalho\trabalhos\cursos\DIO\Dotnet-RPG\bin\Debug\net6.0\Dotnet-RPG.dll
+C:\Users\ronan_40g4u6q\OneDrive\Área de Trabalho\trabalhos\cursos\DIO\Dotnet-RPG\bin\Debug\net6.0\Dotnet-RPG.pdb
+C:\Users\ronan_40g4u6q\OneDrive\Área de Trabalho\trabalhos\cursos\DIO\Dotnet-RPG\obj\Debug\net6.0\Dotnet-RPG.csproj.AssemblyReference.cache
+C:\Users\ronan_40g4u6q\OneDrive\Área de Trabalho\trabalhos\cursos\DIO\Dotnet-RPG\obj\Debug\net6.0\Dotnet-RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronan_40g4u6q\OneDrive\Área de Trabalho\trabalhos\cursos\DIO\Dotnet-RPG\obj\Debug\net6.0\Dotnet-RPG.AssemblyInfoInputs.cache
+C:\Users\ronan_40g4u6q\OneDrive\Área de Trabalho\trabalhos\cursos\DIO\Dotnet-RPG\obj\Debug\net6.0\Dotnet-RPG.AssemblyInfo.cs
+C:\Users\ronan_40g4u6q\OneDrive\Área de Trabalho\trabalhos\cursos\DIO\Dotnet-RPG\obj\Debug\net6.0\Dotnet-RPG.csproj.CoreCompileInputs.cache
+C:\Users\ronan_40g4u6q\OneDrive\Área de Trabalho\trabalhos\cursos\DIO\Dotnet-RPG\obj\Debug\net6.0\Dotnet-RPG.dll
+C:\Users\ronan_40g4u6q\OneDrive\Área de Trabalho\trabalhos\cursos\DIO\Dotnet-RPG\obj\Debug\net6.0\refint\Dotnet-RPG.dll
+C:\Users\ronan_40g4u6q\OneDrive\Área de Trabalho\trabalhos\cursos\DIO\Dotnet-RPG\obj\Debug\net6.0\Dotnet-RPG.pdb
+C:\Users\ronan_40g4u6q\OneDrive\Área de Trabalho\trabalhos\cursos\DIO\Dotnet-RPG\obj\Debug\net6.0\Dotnet-RPG.genruntimeconfig.cache
+C:\Users\ronan_40g4u6q\OneDrive\Área de Trabalho\trabalhos\cursos\DIO\Dotnet-RPG\obj\Debug\net6.0\ref\Dotnet-RPG.dll
